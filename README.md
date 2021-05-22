@@ -77,6 +77,7 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />   -->
 </div>  
 -----
-Credits: [RahulMahesh62](https://github.com/RahulMahesh62)
 
-Last Edited on: 15/01/2021
+
+
+Credits: https://github.com/RahulMahesh62
