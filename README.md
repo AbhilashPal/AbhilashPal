@@ -1,10 +1,10 @@
 <h1><p align="center">Hello, I'm Abhilash Pal! <a href="https://abhilashpal.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-
+<!-- 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
-
-<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Tech-blogs, Poetry, and playing the guitar and dotara.<br></p><br/>
+ -->
+<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Tech-blogs, Poetry, and playing the guitar and dotara(Bengali Folk Instrument).<br></p><br/>
 
 <!-- <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br> -->
 
