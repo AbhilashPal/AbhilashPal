@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%"/></p>
 
 
-<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Tech-blogs, Poetry, and playing the guitar and dotara(Bengali Folk Instrument).<br></p><br/>
+<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Blogs, Poetry, and playing the guitar and dotara(Bengali Folk Instrument).<br></p><br/>
 
 <!-- <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br> -->
 
