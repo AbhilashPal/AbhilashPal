@@ -4,15 +4,12 @@
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%"/></p>
 
 
-<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Blogs, Poetry, and playing the guitar and dotara(Bengali Folk Instrument).<br></p><br/>
+<p align="center">I'm a student developer and researcher.<br/>I specialize in Natural Language Processing, ML and to an extent CV.<br> I also love writing Blogs, Poetry, and playing the guitar and dotara.<br></p><br/>
 
-<!-- <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br> -->
+<summary><h2>What I am currently upto :</h2></summary>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I am currently upto :</h2></summary>
-
-- 🔭 I'm working on finetuning SOTA NLP models for my usecase.
-- 🌱 I’m currently learning surrogate modeling and PyTorch.
+- 🔭 I'm working on Sign Language and Clustering.
+- 🌱 I’m currently learning about constraint satisfaction and search problems and social choice.
 - 👯 I’m looking to collaborate on Bengali NLP based projects.
 - 🤔 I’m looking for help with PyTorch.
 - 💬 Ask me about NLP, Computer Vision, Any ML-related stuff.
