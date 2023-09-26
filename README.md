@@ -8,8 +8,8 @@
 
 <summary><h2>What I am currently upto :</h2></summary>
 
-- 🔭 I'm working on Sign Language and Clustering.
-- 🌱 I’m currently learning about constraint satisfaction and search problems and social choice.
+- 🔭 I'm working on Gradio and LLMs.
+- 🌱 I’m currently learning about Neural Topic Modeling, Semantics and Automata Theory.
 - 👯 I’m looking to collaborate on Bengali NLP based projects.
 - 🤔 I’m looking for help with PyTorch.
 - 💬 Ask me about NLP, Computer Vision, Any ML-related stuff.
